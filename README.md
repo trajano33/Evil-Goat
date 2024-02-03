@@ -4,7 +4,8 @@
 
 ## Descrição 🚀
 
-O Evil Goat é um projeto Arduino que cria um portal cativo para login Wi-Fi usando um ESP8266. Oferece uma interface web simples, permitindo que os usuários façam login utilizando uma conta do Google e é altamente personalizável para ajustes de aparência e comportamento conforme suas preferências.
+O Evil Goat é um projeto Arduino que funciona como um criador de Evil Twin, implementando um captive portal para login Wi-Fi por meio de um ESP8266. Este dispositivo cria uma rede Wi-Fi simulada, atrai dispositivos próximos e, ao usar uma interface web convincente, induz os usuários a realizar logins comprometedores. O Evil Goat é uma ferramenta versátil para testes de segurança em redes sem fio.
+
 
 ## 🔧 Instalação
 
@@ -19,18 +20,23 @@ O Evil Goat é um projeto Arduino que cria um portal cativo para login Wi-Fi usa
 4. Clique em "OK".
 5. Vá para "Ferramentas" > "Placa" > "Gerenciador de Placas...". Pesquise por "esp8266" e instale a placa correspondente.
 
-### ⚙️ Configuração do Projeto:
-1. Abra o código-fonte no Arduino IDE.
-2. Atualize o SSID e outras configurações conforme suas necessidades.
-
 ### 🔄 Carregamento do Código:
 1. Conecte o ESP8266 ao computador.
 2. Selecione o tipo de placa e a porta no Arduino IDE.
 3. Faça o upload do código para o ESP8266.
 
-### 📱 Uso:
+### ⚙️ Configuração do Projeto:
+1. Conecte-se à rede Wi-Fi fornecida pelo ESP8266.
+2. Abra um navegador e acesse `http://172.0.0.1/config`.
+3. Na página de configuração, altere o SSID para o desejado.
+
+### 📱 Como Utilizar:
 1. Conecte-se à rede Wi-Fi do ESP8266.
-2. Abra um navegador e acesse o endereço IP especificado (padrão: 172.0.0.1).
-3. Faça login utilizando uma conta do Google.
+2. Clique em "Entrar na Rede".
+3. Insira seu e-mail e senha quando solicitado.
+4. Após o login bem-sucedido, visite `http://172.0.0.1/creds` para visualizar a lista completa de e-mails e senhas registrados.
+
+
+
 
 **Nota Importante:** Certifique-se de possuir as devidas permissões ao utilizar esta ferramenta. Não me responsabilizo por qualquer uso indevido da mesma. Utilize-a de forma ética e legal, em conformidade com as leis e regulamentações locais.
