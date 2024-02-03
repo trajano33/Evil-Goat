@@ -1,8 +1,10 @@
+
 # 🐐 Evil Goat
 
 **Autor:** [trajano](https://github.com/trajano33)
+<img src="https://i.imgur.com/zu0fyTu.png" alt="Logo" width="400"/>
 
-![Logo](https://i.imgur.com/zu0fyTu.png){:height="5px" width="5px"}
+
 
 ## Descrição 🚀
 
