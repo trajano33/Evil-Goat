@@ -8,7 +8,7 @@
 #include <EEPROM.h>
 
 // User configuration
-#define SUBTITLE "Login - Access Point"
+
 #define TITLE "Sign in:"
 #define BODY "Use uma Conta Google"
 #define POST_TITLE "Validando..."
