@@ -36,6 +36,4 @@ O Evil Goat é um projeto Arduino que funciona como um criador de Evil Twin, imp
 3. Insira seu e-mail e senha quando solicitado.
 4. Após o login bem-sucedido, visite `http://172.0.0.1/creds` para visualizar a lista completa de e-mails e senhas registrados.
 <br>
-<br>
-<br>
-**Nota Importante** __Certifique-se de possuir as devidas permissões ao utilizar esta ferramenta. Não me responsabilizo por qualquer uso indevido da mesma. Utilize-a de forma ética e legal, em conformidade com as leis e regulamentações locais__
+`Nota Importante: Certifique-se de possuir as devidas permissões ao utilizar esta ferramenta. Não me responsabilizo por qualquer uso indevido da mesma. Utilize-a de forma ética e legal, em conformidade com as leis e regulamentações locais`
