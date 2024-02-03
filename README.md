@@ -2,7 +2,7 @@
 
 **Autor:** [trajano](https://github.com/trajano33)
 
-![Logo do Evil Goat](https://i.imgur.com/zu0fyTu.png)
+![Logo](https://i.imgur.com/zu0fyTu.png){:height="100px" width="100px"}
 
 ## Descrição 🚀
 
