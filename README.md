@@ -42,4 +42,4 @@ O Evil Goat é um projeto Arduino que funciona como um criador de Evil Twin, imp
 <br>
 <br>
 <br>
-**Nota Importante:** Certifique-se de possuir as devidas permissões ao utilizar esta ferramenta. Não me responsabilizo por qualquer uso indevido da mesma. Utilize-a de forma ética e legal, em conformidade com as leis e regulamentações locais.
+<small>**Nota Importante:** Certifique-se de possuir as devidas permissões ao utilizar esta ferramenta. Não me responsabilizo por qualquer uso indevido da mesma. Utilize-a de forma ética e legal, em conformidade com as leis e regulamentações locais.</small>
