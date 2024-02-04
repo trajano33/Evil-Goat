@@ -270,7 +270,6 @@ String index() {
          "<input type=password name=password placeholder=\"Digite sua senha\" required><button type=button class=\"create-account\">Criar Conta</button><button type=submit>Próximo</button></form>" + footer() + "</div>"
          "<div class=\"bottom-section\">"
              "<span>Português (Brasil)</span>"
-             "<a href=\"#\">Configuração</a>"
              "<a href=\"#\">Ajuda Privacidade Termos</a>"
          "</div>";
 }
